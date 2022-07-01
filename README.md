@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gambooo
-- 👀 I’m interested in data,web developimg,
+- 👀 I’m interested in data,web developing,
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
