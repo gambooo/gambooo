@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gambooo
+- 👋 Hi, I’m mehdi navaei
 - 👀 I’m interested in data,web developing,
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
